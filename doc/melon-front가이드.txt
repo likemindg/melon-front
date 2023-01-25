@@ -1,4 +1,8 @@
-nvm list
-nvm use 12.14.0     -- melon-front
-nvm use 8.16.0      -- 멀티캠퍼스
+# nvm
+    nvm list
+    nvm use 12.14.0     -- melon-front
+    nvm use 8.16.0      -- 멀티캠퍼스
+
+# plugIn
+    change-case
 
