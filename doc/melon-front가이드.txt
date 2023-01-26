@@ -60,3 +60,13 @@
 
 # 뷰 라우터설치
     npm i vue-router@next
+
+
+# vuejs 서버 포트 변경
+    package.json
+
+    "scripts": {
+        "serve": "vue-cli-service serve --port 8081",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },

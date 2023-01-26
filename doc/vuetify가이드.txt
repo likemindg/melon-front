@@ -1,0 +1,2 @@
+# you can add the Vuetify Vue CLI package using the cli.
+    vue add vuetify
