@@ -1,4 +1,7 @@
-# melon-front
+# melon-front 
+nvm use 12.14.0
+Vue3
+
 
 ## Project setup
 ```
