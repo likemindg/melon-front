@@ -1,4 +1,4 @@
-const { defineConfig } = require("@vue/cli-service");
+const { defineConfig } = require('@vue/cli-service');
 module.exports = defineConfig({
   devServer: {
     client: {
@@ -6,3 +6,14 @@ module.exports = defineConfig({
     },
   },
 });
+
+// @는 vue.congig.js의 설정으로 alias를 사용
+// module.exports = {
+//   configureWebpack: {
+//     resolve: {
+//       alias: {
+//         "@": path.join(__dirname, "src/"),
+//       },
+//     },
+//   },
+// };
